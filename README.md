@@ -20,6 +20,7 @@ ___________________________________[![MasterHead](https://assets.skyfilabs.com/i
   </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png" alt="c" width="40" height="40"/>
   </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/sublime-439588.png" alt="c" width="40" height="40"/>
    </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtAF1VNbzhh87W3CTCEaO4IPSS146bK1PcaUFxrxo8A&s" alt="c" width="40" height="40"/>
+  </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://media-s3-us-east-1.ceros.com/microchip-technology/images/2021/03/31/1fda0ed26602c38d1ba2e31acb794c4e/converted-292469-1617237843-c34259-microchip-studio-logo.png" alt="c" width="40" height="40"/>
   </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-alshreif&show_icons=true&locale=en&layout=compact" alt="mohammed-alshreif" /></p>
