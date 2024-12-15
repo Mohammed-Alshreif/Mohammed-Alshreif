@@ -29,3 +29,10 @@
 
 [![Check out my LinkedIn post!](https://github.com/Mohammed-Alshreif/FREE_PALESTINE_POV_FAN/blob/main/2.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7229897370623238146/)
 
+[![Check out my LinkedIn post!](https://github.com/Mohammed-Alshreif/FREE_PALESTINE_POV_FAN/blob/main/3.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7113995076892016640/)
+
+[![Check out my LinkedIn post!](https://github.com/Mohammed-Alshreif/FREE_PALESTINE_POV_FAN/blob/main/4.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7144340977816686593/)
+
+[![Check out my LinkedIn post!](https://github.com/Mohammed-Alshreif/FREE_PALESTINE_POV_FAN/blob/main/6.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7024439320388247552/)
+
+
