@@ -23,7 +23,8 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-## LINKEDIN POSTS
+#LINKEDIN POSTS
+
 [![Check out my LinkedIn post!](https://github.com/Mohammed-Alshreif/FREE_PALESTINE_POV_FAN/blob/main/1.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7218622915783626752/)
 
 [![Check out my LinkedIn post!](https://github.com/Mohammed-Alshreif/FREE_PALESTINE_POV_FAN/blob/main/2.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7229897370623238146/)
