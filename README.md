@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/C4D16AQFKf_Isf31efQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1660325879339?e=1740009600&v=beta&t=S_zei2jNbn5uojc77vxP4HPxqMsqdx5cGF3obewrAfM)
+![MasterHead](https://media.licdn.com/dms/image/v2/C4D16AQFKf_Isf31efQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1660325879339?e=1740009600&v=beta&t=S_zei2jNbn5uojc77vxP4HPxqMsqdx5cGF3obewrAfM)
 
 <h1 align="center">Hi 👋, I'm Mohammed Alshreif</h1>
 <h3 align="center">Embedded System Eng. | POWER TRAIN Eng. | Computer & Control Systems Eng.</h3>
@@ -24,3 +24,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
+[![My LinkedIn Post]]([https://www.linkedin.com/posts/your-linkedin-post-url](https://www.linkedin.com/feed/update/urn:li:activity:7218622915783626752/))
+
+[![My LinkedIn Post]](https://www.linkedin.com/feed/update/urn:li:activity:7229897370623238146/)
+
+[![Video Title](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
