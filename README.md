@@ -24,4 +24,4 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-[![LinkedIn Post](https://via.placeholder.com/600x200.png?text=LinkedIn+Post+Thumbnail)](https://www.linkedin.com/feed/update/urn:li:activity:7218622915783626752/)
+[![Check out my LinkedIn post!](https://via.placeholder.com/600x200.png?text=LinkedIn+Post+Preview)](https://www.linkedin.com/feed/update/urn:li:activity:7218622915783626752/)
