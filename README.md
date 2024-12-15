@@ -1,5 +1,9 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D16AQFKf_Isf31efQ/profile-displaybackgroundimage-shrink_350_1400/0/1660325879339?e=1708560000&v=beta&t=pe2HsxqBcRpTcMvbYbuXs2nXgFXIPCftSuRta5qlx-g)](https://www.linkedin.com/in/mohammed-adel-alshreif/)
 
+<a href="https://www.linkedin.com/in/mohammed-adel-alshreif/" target="_blank">
+  <img src="https://media.licdn.com/dms/image/C4D16AQFKf_Isf31efQ/profile-displaybackgroundimage-shrink_350_1400/0/1660325879339?e=1708560000&v=beta&t=pe2HsxqBcRpTcMvbYbuXs2nXgFXIPCftSuRta5qlx-g" alt="MasterHead" />
+</a>
+
 <h1 align="center">Hi 👋, I'm Mohammed Alshreif</h1>
 <h3 align="center">Embedded System Eng. | Computer & Control Systems Eng.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.einfochips.com/blog/wp-content/uploads/2018/10/iot_1.gif">
