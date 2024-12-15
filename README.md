@@ -1,11 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/C4D16AQFKf_Isf31efQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1660325879339?e=1740009600&v=beta&t=S_zei2jNbn5uojc77vxP4HPxqMsqdx5cGF3obewrAfM)
 
-<a href="https://www.linkedin.com/in/mohammed-adel-alshreif/" target="_blank">
-  <img src="https://media.licdn.com/dms/image/v2/C4D16AQFKf_Isf31efQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1660325879339?e=1740009600&v=beta&t=S_zei2jNbn5uojc77vxP4HPxqMsqdx5cGF3obewrAfM" />
-</a>
-
 <h1 align="center">Hi 👋, I'm Mohammed Alshreif</h1>
-<h3 align="center">Embedded System Eng. | Computer & Control Systems Eng.</h3>
+<h3 align="center">Embedded System Eng. | POWER TRAIN Eng. | Computer & Control Systems Eng.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.einfochips.com/blog/wp-content/uploads/2018/10/iot_1.gif">
 
 - 🌱 I’m currently learning **Embedded Systems**
